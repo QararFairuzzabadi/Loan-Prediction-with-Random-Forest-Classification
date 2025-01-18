@@ -8,19 +8,19 @@ The project utilized the available datasets to develop machine learning models c
 ## Variable Description
 | Variable           | Description                               |
 |--------------------|-------------------------------------------|
-| Loan_ID            | Unique Loan ID                            |
+| Loan ID            | Unique Loan ID                            |
 | Gender             | Male/ Female                              |
 | Married            | Applicant married (Yes/No)                |
 | Dependents         | Number of dependents                      |
 | Education          | Applicant Education (Graduate/ Not Graduate) |
-| Self_Employed      | Self employed (Yes/No)                    |
-| ApplicantIncome    | Applicant income                          |
-| CoapplicantIncome  | Coapplicant income                        |
-| LoanAmount         | Loan amount in thousands                  |
-| Loan_Amount_Term   | Term of loan in months                    |
-| Credit_History     | Credit history meets guidelines           |
-| Property_Area      | Urban/Semi Urban/Rural                    |
-| Loan_Status        | (Target) Loan approved (Yes/No)           |
+| Self Employed      | Self employed (Yes/No)                    |
+| Applicant Income   | Applicant income                          |
+| Coapplicant Income | Coapplicant income                        |
+| Loan Amount        | Loan amount in thousands                  |
+| Loan Amount Term   | Term of loan in months                    |
+| Credit History     | Credit history meets guidelines           |
+| Property Area      | Urban/Semi Urban/Rural                    |
+| Loan Status        | (Target) Loan approved (Yes/No)           |
 
 ## Conclusion
 The evaluation results showed that the F1-Score value of the model before hyperparameter tuning was 85,25%, while after tuning, the value increased to 85,87%. This increase indicates that the tuning process has a positive impact on the performance of the model, although the increase is relatively small.
