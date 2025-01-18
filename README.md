@@ -23,4 +23,4 @@ The project utilized the available datasets to develop machine learning models c
 | Loan Status        | (Target) Loan approved (Yes/ No)          |
 
 ## Conclusion
-The evaluation results showed that the F1-Score value of the model before hyperparameter tuning was 85,25%, while after tuning, the value increased to 85,87%. This increase indicates that the tuning process has a positive impact on the performance of the model, although the increase is relatively small.
+The evaluation results showed that the F1-Score value of the model before hyperparameter tuning was 85.25%, while after tuning, the value increased to 85.87%. This increase indicates that the tuning process has a positive impact on the performance of the model, although the increase is relatively small.
